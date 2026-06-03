@@ -16,7 +16,7 @@ software e hardware.
 </p>
 <br>
 
-<ul></ul>
+<ul>
  <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji"   width="25px" align="center" /> Conheça meu trabalho: <a href="https://marcosgptrajano.github.io/meu-portifolio/" target="_blank"><strong>Portfolio</strong></a>
   </li>
