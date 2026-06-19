@@ -38,7 +38,7 @@ software e hardware.
 <h3 align="center">🛠️ Ferramentas</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gimp" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Vamos nos conectar: <div>
