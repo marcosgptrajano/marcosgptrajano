@@ -21,7 +21,7 @@ software e hardware.
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji"   width="25px" align="center" /> Conheça meu trabalho: <a href="https://marcosgptrajano.github.io/meu-portifolio/" target="_blank"><strong>Portfolio</strong></a>
   </li>
    <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Entre em contato: @: <a href="contato.marcostrajano@gmail.com"><strong>contato.marcostrajano</strong></a>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Entre em contato: <a href="contato.marcostrajano@gmail.com"><strong>contato.marcostrajan@gmail.com</strong></a>
   </li>
 </ul>
 
