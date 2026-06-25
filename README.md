@@ -32,7 +32,7 @@ software e hardware.
 <h3 align="center"> Linguagens & Tecnologias</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,arduino,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,arduino,cpp" />
 </p>
 
 <h3 align="center">🛠️ Ferramentas</h3>
